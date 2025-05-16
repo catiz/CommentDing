@@ -6,7 +6,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * @package CommentDing 
  * @author CatiZ
  * @version 1.0.0
- * @link https://wcnmb.cn
+ * @link https://www.catiz.cn
  */
 class CommentDing_Plugin implements Typecho_Plugin_Interface
 {
